@@ -30,4 +30,3 @@ Our algorithm is currently using two data sources to populate the project inform
 - urllib
 - BeautifulSoup
 
-
